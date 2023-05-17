@@ -1,5 +1,5 @@
 # Git Hands-On Workshop
-
+# This is the change Sequence 3. (12)
 ## 0. PowerShell Prep
 
 ```powershell
